@@ -24,6 +24,11 @@ Acesse o sistema através do navegador e utilize o formulário de cadastro para 
 
 Visite a página de visualização para ver todos os usuários cadastrados.
 
+[Tela Inicial/Cadastro](https://github.com/vxsk/Cadastro-DJANGO/assets/71227147/0f6494e5-0dc2-4045-bde3-1608af63dca6)
+
+[Tela Usuários](https://github.com/vxsk/Cadastro-DJANGO/assets/71227147/fcd0d590-8d39-4238-b6f1-e1eaa40621f3)
+
+ 
 # Agradecimentos:
 
 Obrigado por explorar este projeto! 
